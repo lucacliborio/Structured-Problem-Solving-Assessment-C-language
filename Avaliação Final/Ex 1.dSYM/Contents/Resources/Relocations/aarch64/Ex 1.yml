@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/desktop/Desktop/Avaliação Final/Ex 1"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _acimaMedia, symObjAddr: 0x0, symBinAddr: 0x1000035A4, symSize: 0x100 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _acimaMedia, symObjAddr: 0x0, symBinAddr: 0x1000035A4, symSize: 0x100 }
+  - { offsetInCU: 0x81, offset: 0x81, size: 0x8, addend: 0x0, symName: _calcMedia, symObjAddr: 0x100, symBinAddr: 0x1000036A4, symSize: 0x84 }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: _qtdeImoveis, symObjAddr: 0x184, symBinAddr: 0x100003728, symSize: 0x174 }
+  - { offsetInCU: 0x121, offset: 0x121, size: 0x8, addend: 0x0, symName: _exibindoImoveis, symObjAddr: 0x2F8, symBinAddr: 0x10000389C, symSize: 0x15C }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: _carregandoImoveis, symObjAddr: 0x454, symBinAddr: 0x1000039F8, symSize: 0x23C }
+  - { offsetInCU: 0x185, offset: 0x185, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x690, symBinAddr: 0x100003C34, symSize: 0xA8 }
+...
